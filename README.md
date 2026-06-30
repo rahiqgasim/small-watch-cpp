@@ -1,2 +1,8 @@
-# small-watch-cpp
-A simple C++ program that works as a digital clock where the user sets the initial time and it counts automatically..
+# small watch
+A simple C++ program clock program.
+## features
+- set the initial time.
+- counts time automatically.
+- displays hours , minuts , and secondes.
+## language
+- C++
